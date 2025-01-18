@@ -1,0 +1,9 @@
+-
+  book_id: 456
+  reader_id: 123
+  taken_at: 2025-01-09
+  returned_at: 2025-01-14
+-
+  book_id: 587
+  reader_id: 124
+  taken_at: 2025-02-09
